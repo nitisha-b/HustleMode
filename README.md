@@ -1,7 +1,7 @@
 # HustleMode
 
-### Tutorial 
-(https://www.youtube.com/watch?v=5b91dFhZz0g&list=LL0kx6MqXLfk6rQrGyizdCjg&index=3&t=0s) 
+## Tutorial 
+(https://www.youtube.com/watch?v=5b91dFhZz0g&list=LL0kx6MqXLfk6rQrGyizdCjg&index=3&t=0s) <br> 
 By **Devslopes**
 
 ## App Description 
